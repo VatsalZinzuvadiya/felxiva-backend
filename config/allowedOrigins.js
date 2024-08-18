@@ -7,6 +7,7 @@ const allowedOrigins = [
     'https://flexiva-three.netlify.app',
     "https://flexiva-three.vercel.app",
     "https://flexiva-four.netlify.app",
-    "https://flexiva-four.vercel.app"
+    "https://flexiva-four.vercel.app",
+    "https://www.zorova.in"
 ]
 module.exports = allowedOrigins
